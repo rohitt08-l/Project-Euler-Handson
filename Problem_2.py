@@ -12,5 +12,5 @@ def febo(n):
         if a % 2 == 0:
             sum += a
         a, b = b , a+b
-    print(sum)
+    print("The sum of the even-valued terms is:", sum)
 febo(4000000)

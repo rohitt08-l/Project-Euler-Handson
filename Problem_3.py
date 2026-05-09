@@ -5,13 +5,13 @@
 x=600851475143
 l=[]
 l2=[]
+#Find the factors of x
 for i in range (1, int(x**0.5) + 1):
     if x%i==0:
         l.append(i)
     else:
         continue
 print(l)
-print()
 def prime(b):
     for i  in l:
         for j in range(2,i):
@@ -20,8 +20,6 @@ def prime(b):
         else:
             #print(i)
             l2.append(i)
-            
-    
 a=prime(l)
-print(l2)
-print(max(l2))
+print("Prime factors:", l2)
+print("Maximum prime factor:", max(l2))
