@@ -9,4 +9,4 @@ def lcm(a,b):
 result=1
 for i in range(1,21):
     result=lcm(result,i)
-print(result)
+print("The smallest number that can be divided by each of the numbers from 1 to 20 without any remainder is:", result)
