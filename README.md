@@ -4,7 +4,7 @@ This repository contains my solutions to various **Project Euler** problems solv
 
 Project Euler is a collection of mathematical and computational programming problems designed to improve logical thinking and algorithmic problem-solving abilities.
 
-## 🚀 About Project Euler
+## About Project Euler
 
 The problems involve concepts such as:
 
@@ -21,7 +21,7 @@ The problems involve concepts such as:
 
 - Python
 
-## 📂 Repository Structure
+## Repository Structure
 
 Each file represents the solution to a Project Euler problem.
 
