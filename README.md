@@ -17,7 +17,7 @@ The problems involve concepts such as:
 - Optimization
 - Logical Reasoning
 
-## 🛠️ Language Used
+##Language Used
 
 - Python
 
@@ -33,7 +33,7 @@ Problem_3.py
 ...
 ```
 
-## 🎯 Skills Improved
+##Skills Improved
 
 By solving these problems, I improved:
 
@@ -43,19 +43,19 @@ By solving these problems, I improved:
 - Python programming
 - Debugging skills
 
-## 📌 Platform
+##Platform
 
 Official Website:
 https://projecteuler.net/
 
-## 👨‍💻 Author
+##Author
 
 Rohit Patil
 
 - Artificial Intelligence & Machine Learning Student
 - Passionate about coding and problem solving
 
-## ⭐ Purpose of This Repository
+##Purpose of This Repository
 
 This repository is maintained to:
 
