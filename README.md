@@ -12,7 +12,6 @@ The problems involve concepts such as:
 - Number Theory
 - Recursion
 - Dynamic Programming
-- Combinatorics
 - Algorithms
 - Optimization
 - Logical Reasoning
