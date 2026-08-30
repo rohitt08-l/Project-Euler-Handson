@@ -60,7 +60,6 @@ This repository is maintained to:
 
 - Track my coding journey
 - Practice advanced problem-solving
-- Improve programming efficiency
 - Build strong logical foundations for software development and AI
 
 ---
